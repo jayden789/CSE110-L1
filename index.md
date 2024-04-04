@@ -7,6 +7,8 @@ Hello, my name is Thanh, a passionate programmer and a curious learner. Welcome 
 I love coding and exploring new technologies. In my free time, you can often find me working out, trying new food and hanging with friends.
 
 [Profile pic](profile.jpg)
+
+
 [README file](README.md)
 
 Here is my Github profile:
